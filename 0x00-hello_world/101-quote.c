@@ -1,4 +1,3 @@
-i 101-quote.c
 #include <stdio.h>
 #include <unistd.h>
 
